@@ -1,28 +1,33 @@
-= TITLE
+= アジャイルソフトウェア開発の概要と現場での実践
 
-# : subtitle
-#    SUBTITLE
 : author
-   Kunihiko Ito
-# : institution
-#    INSTITUTION
-# : content-source
-#    EVENT NAME
-# : date
-#    2016-06-12
-# : allotted-time
-#    5m
-# : theme
-#    default
+   伊藤 邦彦
+: institution
+   永和システムマネジメント
+: content-source
+   Agile Japan 2016 北陸
+: date
+   2016-06-25
+: allotted-time
+   55m
+: theme
+   clear-blue
 
-= FIRST SLIDE
+= 内容
 
-  * ITEM 1
-  * ITEM 2
-  * ITEM 3
+  * アジャイル開発プロセスの基礎知識
+  * 現場での工夫
 
-= SECOND SLIDE
+= p self
+
+* 名前: 伊藤 邦彦
+* 出身: 富山
+* 在住: 東京
+* 所属: アジャイル事業部
+* 仕事: [Ruby, Rails, Neo4j]
+
+= ((' '))
 
   # image
-  # src = https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png
-  # relative_height = 100
+  # src = images/sponsor_slide.png
+  # keep_ratio = true

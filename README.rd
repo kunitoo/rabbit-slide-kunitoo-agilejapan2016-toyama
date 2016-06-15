@@ -1,6 +1,4 @@
-= TODO: SLIDE TITLE
-
-TODO: SLIDE DESCRIPTION
+= アジャイルソフトウェア開発の概要と現場での実践
 
 == For author
 

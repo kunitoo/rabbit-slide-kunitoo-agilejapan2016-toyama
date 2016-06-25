@@ -115,6 +115,13 @@ awesome window manager
   * (('wait'))Green
   * (('wait'))Refactor
 
+= ((' '))
+
+  # image
+  # src = images/tdd.png
+  # relative_height = 85
+(('tag:right'))(('tag:xx-small:http://www.slideshare.net/t_wada/the-spirit-of-tdd/27'))
+
 = テスト駆動開発
 
 * やりやすい分野とやりにくい分野はある
